@@ -27,8 +27,7 @@ I build practical web apps and bots that solve problems in my own life, then pol
 - Completed **Harvard's CS50: Introduction to Computer Science** (edX)
 - Interested in personal finance tooling, automation, and building with LLMs
 
-<!--
 ### 📫 Get in touch
-- LinkedIn: https://linkedin.com/in/your-handle
-- Email: you@example.com
--->
+- LinkedIn: https://linkedin.com/in/ethantam-
+- Email: eatentam@gmail.com
+
