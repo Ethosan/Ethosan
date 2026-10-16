@@ -2,8 +2,6 @@
 
 I build web apps and bots for problems in my own life, then polish them until other people can use them too. My projects are full-stack: a fast front end, a Postgres back end with row-level security, serverless functions, and AI where it actually helps.
 
-Singapore. National Service as a transport operator until Feb 2027. On the side: Finance & Content at [Advisory Singapore](https://www.advisory.sg). Economics at Cambridge from 2027.
-
 ### Featured projects
 
 | Project | Description | Stack |
