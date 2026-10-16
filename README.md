@@ -29,10 +29,6 @@ I build web apps and bots for problems in my own life, then polish them until ot
 ### Background
 
 - Economics (BA), University of Cambridge, from 2027
-- Finance & Content at [Advisory Singapore](https://www.advisory.sg)
-- National Service, Singapore Armed Forces (transport operator)
-- Co-founded ACSians Investment Club and Project Lumos (fundraising for migrant workers)
-- Maths tutor, IB / IP / IGCSE
 - Harvard CS50: Introduction to Computer Science (edX)
 
 ### Get in touch
