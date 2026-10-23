@@ -6,13 +6,13 @@ Singapore. National Service as a transport operator until Feb 2027. On the side:
 
 ### Featured projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**Trade Journal**](https://futuretracker.ethantam.dev) | Futures trade journal: every trade logged with its setup, the R multiple worked out as you type, and stats that show what breaking a rule costs. Saves to a Google Sheet, works offline. | JavaScript · Vite · Google Sheets · PWA |
-| [**20bucks**](https://20bucks.ethantam.dev) | Personal finance app: spending, bill splits, PayLater instalments, trading P&L, statement imports, offline sync, and a small AI check that flags entries that look off. | JavaScript · Supabase · PWA |
-| [**Equarian Markets**](https://markets.ethantam.dev) | Macro dashboard for futures traders: 36 indicators across rates, risk, carry, commodities and the tape, pulled from FRED, Yahoo, the CFTC and the BOJ, with a rule-based daily read and four quant models. | JavaScript · Vite · Netlify · PWA |
-| [**The List**](https://list.ethantam.dev) | Shared restaurant journal: rate places, keep a leaderboard, and a want list that finds a good TikTok and the details by itself. On the web and as a Telegram bot. | TypeScript · Cloudflare Workers · Supabase · Telegram |
-| [**Tally**](https://github.com/xiaoyang4c/actual-token2049-hackathon-repo) | Hackathon build for TOKEN2049 Origins: a trust layer for deals between strangers. Evidence first, funds in escrow on Cardano until it arrives, and a reliability record for both sides. | TypeScript · React · Cardano · Masumi |
+| | Project | Description | Stack |
+| --- | --- | --- | --- |
+| <img src="https://gitlab.com/uploads/-/system/project/avatar/87759872/icon-512.png" width="32" alt="Trade Journal icon"> | [**Trade Journal**](https://futuretracker.ethantam.dev) | Futures trade journal: every trade logged with its setup, the R multiple worked out as you type, and stats that show what breaking a rule costs. Saves to a Google Sheet, works offline. | JavaScript · Vite · Google Sheets · PWA |
+| <img src="https://gitlab.com/uploads/-/system/project/avatar/87759263/icon-512.png" width="32" alt="20bucks icon"> | [**20bucks**](https://20bucks.ethantam.dev) | Personal finance app: spending, bill splits, PayLater instalments, trading P&L, statement imports, offline sync, and an AI assistant you can ask about your money that also flags entries that look off. | JavaScript · Supabase · PWA |
+| <img src="https://gitlab.com/uploads/-/system/project/avatar/87759230/icon-512.png" width="32" alt="Equarian Markets icon"> | [**Equarian Markets**](https://markets.ethantam.dev) | Macro dashboard for futures traders: 36 indicators across rates, risk, carry, commodities and the tape, pulled from FRED, Yahoo, the CFTC and the BOJ, with a rule-based daily read and four quant models. | JavaScript · Vite · Netlify · PWA |
+| <img src="https://gitlab.com/uploads/-/system/project/avatar/87759258/thelist.png" width="32" alt="The List icon"> | [**The List**](https://list.ethantam.dev) | Shared restaurant journal: rate places, keep a leaderboard, and a want list that finds a good TikTok and the details by itself. On the web and as a Telegram bot. | TypeScript · Cloudflare Workers · Supabase · Telegram |
+| | [**Tally**](https://github.com/xiaoyang4c/actual-token2049-hackathon-repo) | Hackathon build for TOKEN2049 Origins: a trust layer for deals between strangers. Evidence first, funds in escrow on Cardano until it arrives, and a reliability record for both sides. | TypeScript · React · Cardano · Masumi |
 
 ### Tech I work with
 
