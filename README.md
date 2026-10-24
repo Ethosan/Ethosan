@@ -43,6 +43,6 @@ Singapore. National Service as a transport operator until Feb 2027. On the side:
 - [ethantam.dev](https://ethantam.dev)
 - [LinkedIn](https://linkedin.com/in/ethantam-)
 - [GitLab](https://gitlab.com/eatentam)
-- [ethan@ethantam.dev](mailto:ethan@ethantam.dev)
+- [contact@ethantam.dev](mailto:contact@ethantam.dev)
 
 <!-- version: 0.1.0 -->

@@ -20,4 +20,4 @@ If these terms change in a way that matters, the site will say so before it take
 
 ## Contact
 
-[ethan@ethantam.dev](mailto:ethan@ethantam.dev)
+[contact@ethantam.dev](mailto:contact@ethantam.dev)

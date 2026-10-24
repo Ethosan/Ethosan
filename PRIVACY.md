@@ -24,4 +24,4 @@ If this policy changes in a way that matters, the site will say so before it tak
 
 ## Contact
 
-[ethan@ethantam.dev](mailto:ethan@ethantam.dev)
+[contact@ethantam.dev](mailto:contact@ethantam.dev)
